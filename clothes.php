@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html class="html" lang="en-US">
+ <head>
+
+  <script type="text/javascript">
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.musemenu.js", "jquery.watch.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.musepolyfill.bgsize.js", "clothes.css"], "outOfDate":[]};
+</script>
+  
+  <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
+  <meta name="generator" content="2015.0.0.309"/>
+  <link rel="shortcut icon" href="images/favicon.ico?234208791"/>
+  <title>Clothes</title>
+  <!-- CSS -->
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?65735232"/>
+  <link rel="stylesheet" type="text/css" href="css/master_masterframe.css?4252574424"/>
+  <link rel="stylesheet" type="text/css" href="css/clothes.css?143730822" id="pagesheet"/>
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   document.documentElement.className += ' js';
+</script>
+  <!-- JS includes -->
+  <!--[if lt IE 9]>
+  <script src="scripts/html5shiv.js?4241844378" type="text/javascript"></script>
+  <![endif]-->
+   </head>
+ <body>
+
+  <div class="clearfix" id="page"><!-- column -->
+   <div class="position_content" id="page_position_content">
+    <div class="clearfix colelem" id="pu4285"><!-- group -->
+     <div class="museBGSize grpelem" id="u4285"><!-- simple frame --></div>
+     <a class="nonblock nontext grpelem" id="u1562-4" href="home2.html"><!-- rasterized frame --><img id="u1562-4_img" alt="ShopWithUs" width="240" height="48" src="images/u1562-4.png"/></a>
+     <div class="clearfix grpelem" id="pu1560-4"><!-- column -->
+      <a class="nonblock nontext colelem" id="u1560-4" href="http://musefree.com"><!-- rasterized frame --><img id="u1560-4_img" alt="Toll Free Number" width="128" height="25" src="images/u1560-4.png"/></a>
+      <a class="nonblock nontext colelem" id="u1561-4" href="http://musefree.com"><!-- rasterized frame --><img id="u1561-4_img" alt="&nbsp;+8 454 245 543" width="302" height="40" src="images/u1561-4.png"/></a>
+     </div>
+     <div class="grpelem" id="u1557"><!-- simple frame --></div>
+     <div class="grpelem" id="u1559"><!-- simple frame --></div>
+     <div class="grpelem" id="u1558"><!-- simple frame --></div>
+    </div>
+    <div class="browser_width colelem" id="u1556-bw">
+     <div id="u1556"><!-- group -->
+      <div class="clearfix" id="u1556_align_to_page">
+       <nav class="MenuBar clearfix grpelem" id="menuu1563"><!-- horizontal box -->
+        <div class="MenuItemContainer clearfix grpelem" id="u1578"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive clearfix colelem" id="u1579" href="clothes.html"><!-- horizontal box --><img class="MenuItemLabel NoWrap grpelem" id="u1581" alt="CLOTHES" src="images/blank.gif"/><!-- state-based BG images --></a>
+        </div>
+        <div class="MenuItemContainer clearfix grpelem" id="u1564"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u1565" href="equipments.html"><!-- horizontal box --><img class="MenuItemLabel NoWrap grpelem" id="u1566" alt="EQUIPMENTS" src="images/blank.gif"/><!-- state-based BG images --></a>
+        </div>
+        <div class="MenuItemContainer clearfix grpelem" id="u1585"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u1586" href="appliances.html"><!-- horizontal box --><img class="MenuItemLabel NoWrap grpelem" id="u1587" alt="APPLIANCES" src="images/blank.gif"/><!-- state-based BG images --></a>
+        </div>
+        <div class="MenuItemContainer clearfix grpelem" id="u1592"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u1593" href="tech-gadgets.html"><!-- horizontal box --><img class="MenuItemLabel NoWrap grpelem" id="u1596" alt="GADGETS" src="images/blank.gif"/><!-- state-based BG images --></a>
+        </div>
+        <div class="MenuItemContainer clearfix grpelem" id="u1599"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u1600" href="shoes.html"><!-- horizontal box --><img class="MenuItemLabel NoWrap grpelem" id="u1602" alt="SHOES" src="images/blank.gif"/><!-- state-based BG images --></a>
+        </div>
+       </nav>
+      </div>
+     </div>
+    </div>
+    <div class="SlideShowWidget clearfix colelem" id="slideshowu1612"><!-- none box -->
+     <div class="popup_anchor" id="u1613popup">
+      <div class="SlideShowContentPanel clearfix" id="u1613"><!-- stack box -->
+       <div class="SSSlide clip_frame clearfix grpelem" id="u1628"><!-- image -->
+        <div id="u1628_clip">
+         <img class="ImageInclude position_content" id="u1628_img" data-src="images/4.jpg" src="images/blank.gif" alt="" data-width="670" data-height="377"/>
+        </div>
+       </div>
+       <div class="SSSlide invi clip_frame clearfix grpelem" id="u3598"><!-- image -->
+        <div id="u3598_clip">
+         <img class="ImageInclude position_content" id="u3598_img" data-src="images/clothesshopping.jpg" src="images/blank.gif" alt="" data-width="670" data-height="335"/>
+        </div>
+       </div>
+       <div class="SSSlide invi clip_frame clearfix grpelem" id="u3607"><!-- image -->
+        <div id="u3607_clip">
+         <img class="ImageInclude position_content" id="u3607_img" data-src="images/maxresdefault670x377.jpg" src="images/blank.gif" alt="" data-width="670" data-height="377"/>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="colelem" id="u1609"><!-- simple frame --></div>
+    <div class="clearfix colelem" id="u1608"><!-- group -->
+     <img class="grpelem" id="u1610-4" alt="10%" width="146" height="84" src="images/u1610-4.png"/><!-- rasterized frame -->
+     <img class="grpelem" id="u1611-4" alt="Special Offer" width="128" height="75" src="images/u1611-4.png"/><!-- rasterized frame -->
+     <img class="grpelem" id="u1663-4" alt="Get 10% off from all purchases you make. Buy Now!" width="638" height="65" src="images/u1663-4.png"/><!-- rasterized frame -->
+    </div>
+    <div class="clearfix colelem" id="pu1477"><!-- group -->
+     <div class="clearfix grpelem" id="u1477"><!-- group -->
+      <div class="clearfix grpelem" id="u1482"><!-- column -->
+       <div class="position_content" id="u1482_position_content">
+        <div class="clip_frame colelem" id="u1478"><!-- image -->
+         <img class="block" id="u1478_img" src="images/angelo-litrico-logo-crop.jpg" alt="" width="220" height="220"/>
+        </div>
+        <img class="colelem" id="u1483-4" alt="Angelo Litrico" width="230" height="21" src="images/u1483-4.png"/><!-- rasterized frame -->
+        <img class="colelem" id="u1480-4" alt="$259.00" width="230" height="33" src="images/u1480-4.png"/><!-- rasterized frame -->
+       </div>
+      </div>
+      <img class="grpelem" id="u1481" alt="BUY IT NOW" src="images/blank.gif"/><!-- state-based BG images -->
+     </div>
+     <div class="clearfix grpelem" id="u1491"><!-- group -->
+      <div class="clearfix grpelem" id="u1497"><!-- column -->
+       <div class="position_content" id="u1497_position_content">
+        <div class="clip_frame colelem" id="u1495"><!-- image -->
+         <img class="block" id="u1495_img" src="images/gucci_logo_studio-t2220x143.jpg" alt="" width="220" height="142"/>
+        </div>
+        <img class="colelem" id="u1493-4" alt="Gucci" width="230" height="21" src="images/u1493-4.png"/><!-- rasterized frame -->
+        <img class="colelem" id="u1494-4" alt="$399.00" width="230" height="33" src="images/u1494-4.png"/><!-- rasterized frame -->
+       </div>
+      </div>
+      <img class="grpelem" id="u1492" alt="BUY IT NOW" src="images/blank.gif"/><!-- state-based BG images -->
+     </div>
+     <div class="clearfix grpelem" id="u1505"><!-- group -->
+      <div class="clearfix grpelem" id="u1511"><!-- column -->
+       <div class="position_content" id="u1511_position_content">
+        <div class="clip_frame colelem" id="u1507"><!-- image -->
+         <img class="block" id="u1507_img" src="images/download%20(1).jpg" alt="" width="220" height="165"/>
+        </div>
+        <img class="colelem" id="u1506-4" alt="Dior" width="230" height="21" src="images/u1506-4.png"/><!-- rasterized frame -->
+        <img class="colelem" id="u1509-4" alt="$389.00" width="230" height="33" src="images/u1509-4.png"/><!-- rasterized frame -->
+       </div>
+      </div>
+      <img class="grpelem" id="u1510" alt="BUY IT NOW" src="images/blank.gif"/><!-- state-based BG images -->
+     </div>
+     <div class="clearfix grpelem" id="u1526"><!-- group -->
+      <div class="clearfix grpelem" id="u1527"><!-- column -->
+       <div class="position_content" id="u1527_position_content">
+        <div class="clip_frame colelem" id="u1528"><!-- image -->
+         <img class="block" id="u1528_img" src="images/download%20(2).jpg" alt="" width="220" height="119"/>
+        </div>
+        <img class="colelem" id="u1532-4" alt="Giorgio Armani" width="230" height="21" src="images/u1532-4.png"/><!-- rasterized frame -->
+        <img class="colelem" id="u1531-4" alt="$450.00" width="230" height="33" src="images/u1531-4.png"/><!-- rasterized frame -->
+       </div>
+      </div>
+      <img class="grpelem" id="u1530" alt="BUY IT NOW" src="images/blank.gif"/><!-- state-based BG images -->
+     </div>
+    </div>
+    <div class="clearfix colelem" id="pu1519"><!-- group -->
+     <div class="clearfix grpelem" id="u1519"><!-- group -->
+      <div class="clearfix grpelem" id="u1520"><!-- column -->
+       <div class="position_content" id="u1520_position_content">
+        <div class="clip_frame colelem" id="u1521"><!-- image -->
+         <img class="block" id="u1521_img" src="images/download%20(3).jpg" alt="" width="220" height="220"/>
+        </div>
+        <img class="colelem" id="u1525-4" alt="Tom Ford" width="230" height="21" src="images/u1525-4.png"/><!-- rasterized frame -->
+        <img class="colelem" id="u1524-4" alt="$1799.00" width="230" height="33" src="images/u1524-4.png"/><!-- rasterized frame -->
+       </div>
+      </div>
+      <img class="grpelem" id="u1523" alt="BUY IT NOW" src="images/blank.gif"/><!-- state-based BG images -->
+     </div>
+     <div class="clearfix grpelem" id="u1512"><!-- group -->
+      <div class="clearfix grpelem" id="u1513"><!-- column -->
+       <div class="position_content" id="u1513_position_content">
+        <div class="clip_frame colelem" id="u1517"><!-- image -->
+         <img class="block" id="u1517_img" src="images/download%20(4).jpg" alt="" width="220" height="220"/>
+        </div>
+        <img class="colelem" id="u1516-4" alt="Tommy Hilfiger" width="230" height="21" src="images/u1516-4.png"/><!-- rasterized frame -->
+        <img class="colelem" id="u1515-4" alt="$300.00" width="230" height="33" src="images/u1515-4.png"/><!-- rasterized frame -->
+       </div>
+      </div>
+      <img class="grpelem" id="u1514" alt="BUY IT NOW" src="images/blank.gif"/><!-- state-based BG images -->
+     </div>
+     <div class="clearfix grpelem" id="u1498"><!-- group -->
+      <div class="clearfix grpelem" id="u1503"><!-- column -->
+       <div class="position_content" id="u1503_position_content">
+        <div class="clip_frame colelem" id="u1500"><!-- image -->
+         <img class="block" id="u1500_img" src="images/download%20(6).jpg" alt="" width="220" height="220"/>
+        </div>
+        <img class="colelem" id="u1504-4" alt="Dolce &amp; Gabbana" width="230" height="21" src="images/u1504-4.png"/><!-- rasterized frame -->
+        <img class="colelem" id="u1502-4" alt="$779.00" width="230" height="33" src="images/u1502-4.png"/><!-- rasterized frame -->
+       </div>
+      </div>
+      <img class="grpelem" id="u1499" alt="BUY IT NOW" src="images/blank.gif"/><!-- state-based BG images -->
+     </div>
+     <div class="clearfix grpelem" id="u1484"><!-- group -->
+      <div class="clearfix grpelem" id="u1487"><!-- column -->
+       <div class="position_content" id="u1487_position_content">
+        <div class="clip_frame colelem" id="u1488"><!-- image -->
+         <img class="block" id="u1488_img" src="images/download%20(20).jpg" alt="" width="220" height="146"/>
+        </div>
+        <img class="colelem" id="u1485-4" alt="Luis Vuitton" width="230" height="21" src="images/u1485-4.png"/><!-- rasterized frame -->
+        <img class="colelem" id="u1486-4" alt="$849.00" width="230" height="33" src="images/u1486-4.png"/><!-- rasterized frame -->
+       </div>
+      </div>
+      <img class="grpelem" id="u1490" alt="BUY IT NOW" src="images/blank.gif"/><!-- state-based BG images -->
+     </div>
+    </div>
+    <div class="clearfix colelem" id="pu4196"><!-- group -->
+     <div class="clearfix grpelem" id="u4196"><!-- group -->
+      <div class="clearfix grpelem" id="u4200"><!-- column -->
+       <div class="position_content" id="u4200_position_content">
+        <div class="clip_frame colelem" id="u4197"><!-- image -->
+         <img class="block" id="u4197_img" src="images/versace-logo.jpg" alt="" width="179" height="220"/>
+        </div>
+        <img class="colelem" id="u4199-4" alt="Versace" width="230" height="21" src="images/u4199-4.png"/><!-- rasterized frame -->
+        <img class="colelem" id="u4202-4" alt="$999.00" width="230" height="33" src="images/u4202-4.png"/><!-- rasterized frame -->
+       </div>
+      </div>
+      <img class="grpelem" id="u4201" alt="BUY IT NOW" src="images/blank.gif"/><!-- state-based BG images -->
+     </div>
+     <div class="clearfix grpelem" id="u4189"><!-- group -->
+      <div class="clearfix grpelem" id="u4195"><!-- column -->
+       <div class="position_content" id="u4195_position_content">
+        <div class="clip_frame colelem" id="u4192"><!-- image -->
+         <img class="block" id="u4192_img" src="images/download%20(17).jpg" alt="" width="220" height="165"/>
+        </div>
+        <img class="colelem" id="u4194-4" alt="DKNY" width="230" height="21" src="images/u4194-4.png"/><!-- rasterized frame -->
+        <img class="colelem" id="u4191-4" alt="$800.00" width="230" height="33" src="images/u4191-4.png"/><!-- rasterized frame -->
+       </div>
+      </div>
+      <img class="grpelem" id="u4190" alt="BUY IT NOW" src="images/blank.gif"/><!-- state-based BG images -->
+     </div>
+     <div class="clearfix grpelem" id="u4182"><!-- group -->
+      <div class="clearfix grpelem" id="u4186"><!-- column -->
+       <div class="position_content" id="u4186_position_content">
+        <div class="clip_frame colelem" id="u4187"><!-- image -->
+         <img class="block" id="u4187_img" src="images/download%20(21).jpg" alt="" width="220" height="220"/>
+        </div>
+        <img class="colelem" id="u4185-4" alt="Roberto Cavalli" width="230" height="21" src="images/u4185-4.png"/><!-- rasterized frame -->
+        <img class="colelem" id="u4184-4" alt="$450.00" width="230" height="33" src="images/u4184-4.png"/><!-- rasterized frame -->
+       </div>
+      </div>
+      <img class="grpelem" id="u4183" alt="BUY IT NOW" src="images/blank.gif"/><!-- state-based BG images -->
+     </div>
+     <div class="clearfix grpelem" id="u4175"><!-- group -->
+      <div class="clearfix grpelem" id="u4178"><!-- column -->
+       <div class="position_content" id="u4178_position_content">
+        <div class="clip_frame colelem" id="u4180"><!-- image -->
+         <img class="block" id="u4180_img" src="images/download%20(22).jpg" alt="" width="220" height="165"/>
+        </div>
+        <img class="colelem" id="u4176-4" alt="Calvin Klein" width="230" height="21" src="images/u4176-4.png"/><!-- rasterized frame -->
+        <img class="colelem" id="u4177-4" alt="$500.00" width="230" height="33" src="images/u4177-4.png"/><!-- rasterized frame -->
+       </div>
+      </div>
+      <img class="grpelem" id="u4179" alt="BUY IT NOW" src="images/blank.gif"/><!-- state-based BG images -->
+     </div>
+    </div>
+    <div class="verticalspacer"></div>
+   </div>
+  </div>
+  <div class="preload_images">
+   <img class="preload" src="images/u1581-r.png" alt=""/>
+   <img class="preload" src="images/u1566-r.png" alt=""/>
+   <img class="preload" src="images/u1587-r.png" alt=""/>
+   <img class="preload" src="images/u1596-r.png" alt=""/>
+   <img class="preload" src="images/u1602-r.png" alt=""/>
+   <img class="preload" src="images/u1481-r.png" alt=""/>
+   <img class="preload" src="images/u1492-r.png" alt=""/>
+   <img class="preload" src="images/u1510-r.png" alt=""/>
+   <img class="preload" src="images/u1530-r.png" alt=""/>
+   <img class="preload" src="images/u1523-r.png" alt=""/>
+   <img class="preload" src="images/u1514-r.png" alt=""/>
+   <img class="preload" src="images/u1499-r.png" alt=""/>
+   <img class="preload" src="images/u1490-r.png" alt=""/>
+   <img class="preload" src="images/u4201-r.png" alt=""/>
+   <img class="preload" src="images/u4190-r.png" alt=""/>
+   <img class="preload" src="images/u4183-r.png" alt=""/>
+   <img class="preload" src="images/u4179-r.png" alt=""/>
+  </div>
+  <!-- JS includes -->
+  <script type="text/javascript">
+   if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn2.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+</script>
+  <script type="text/javascript">
+   window.jQuery || document.write('\x3Cscript src="scripts/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+</script>
+  <script src="scripts/museutils.js?183364071" type="text/javascript"></script>
+  <script src="scripts/jquery.musepolyfill.bgsize.js?4004268962" type="text/javascript"></script>
+  <script src="scripts/jquery.musemenu.js?3957776250" type="text/javascript"></script>
+  <script src="scripts/jquery.watch.js?71412426" type="text/javascript"></script>
+  <script src="scripts/webpro.js?3803554875" type="text/javascript"></script>
+  <script src="scripts/musewpslideshow.js?242596657" type="text/javascript"></script>
+  <script src="scripts/jquery.museoverlay.js?493285861" type="text/javascript"></script>
+  <script src="scripts/touchswipe.js?4038331989" type="text/javascript"></script>
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   $(document).ready(function() { try {
+(function(){var a={},b=function(a){if(a.match(/^rgb/))return a=a.replace(/\s+/g,"").match(/([\d\,]+)/gi)[0].split(","),(parseInt(a[0])<<16)+(parseInt(a[1])<<8)+parseInt(a[2]);if(a.match(/^\#/))return parseInt(a.substr(1),16);return 0};(function(){$('link[type="text/css"]').each(function(){var b=($(this).attr("href")||"").match(/\/?css\/([\w\-]+\.css)\?(\d+)/);b&&b[1]&&b[2]&&(a[b[1]]=b[2])})})();(function(){$("body").append('<div class="version" style="display:none; width:1px; height:1px;"></div>');
+for(var c=$(".version"),d=0;d<Muse.assets.required.length;){var f=Muse.assets.required[d],g=f.match(/([\w\-\.]+)\.(\w+)$/),k=g&&g[1]?g[1]:null,g=g&&g[2]?g[2]:null;switch(g.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");c.addClass(k);var g=b(c.css("color")),h=b(c.css("background-color"));g!=0||h!=0?(Muse.assets.required.splice(d,1),"undefined"!=typeof a[f]&&(g!=a[f]>>>24||h!=(a[f]&16777215))&&Muse.assets.outOfDate.push(f)):d++;c.removeClass(k);break;case "js":k.match(/^jquery-[\d\.]+/gi)&&
+typeof $!="undefined"?Muse.assets.required.splice(d,1):d++;break;default:throw Error("Unsupported file type: "+g);}}c.remove();if(Muse.assets.outOfDate.length||Muse.assets.required.length)c="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",(d=location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi))&&Muse.assets.outOfDate.length&&(c+="\nOut of date: "+Muse.assets.outOfDate.join(",")),d&&Muse.assets.required.length&&(c+="\nMissing: "+Muse.assets.required.join(",")),alert(c)})()})();/* body */
+Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
+Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
+Muse.Utils.resizeHeight()/* resize height */
+Muse.Utils.initWidget('#slideshowu1612', function(elem) { $(elem).data('widget', new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:3500,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:500,enableSwipe:true,elastic:'off',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false})); });/* #slideshowu1612 */
+Muse.Utils.fullPage('#page');/* 100% height page */
+Muse.Utils.showWidgetsWhenReady();/* body */
+Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
+} catch(e) { if (e && 'function' == typeof e.notify) e.notify(); else Muse.Assert.fail('Error calling selector function:' + e); }});
+</script>
+   </body>
+</html>

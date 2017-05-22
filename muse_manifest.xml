@@ -1,0 +1,397 @@
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="shopwithus.com" resolutions="1x" timestamp="1495404222758">
+  <folder name="css">
+    <file name="site_global.css" crc="65735232"/>
+    <file name="master_masterframe.css" crc="4252574424" ref="shoes:index:tech-gadgets:contact-us:equipments:clothes:home2:appliances"/>
+    <file name="shoes.css" crc="3842176794" ref="shoes"/>
+    <file name="index.css" crc="3982295197" ref="index"/>
+    <file name="tech-gadgets.css" crc="60704539" ref="tech-gadgets"/>
+    <file name="adobe-muse-online-store.css" crc="403827038" ref="adobe-muse-online-store"/>
+    <file name="contact-us.css" crc="415575781" ref="contact-us"/>
+    <file name="equipments.css" crc="3767675651" ref="equipments"/>
+    <file name="clothes.css" crc="143730822" ref="clothes"/>
+    <file name="home2.css" crc="426647234" ref="home2"/>
+    <file name="appliances.css" crc="281195367" ref="appliances"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="adobe-muse-online-store:clothes:shoes:tech-gadgets:equipments:appliances:index:contact-us:home2"/>
+    <file name="museutils.js" crc="183364071" ref="adobe-muse-online-store:clothes:shoes:tech-gadgets:equipments:appliances:index:contact-us:home2"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="adobe-muse-online-store:clothes:shoes:tech-gadgets:equipments:appliances:index:contact-us:home2"/>
+    <file name="jquery.watch.js" crc="71412426" ref="adobe-muse-online-store:clothes:shoes:tech-gadgets:equipments:appliances:index:contact-us:home2"/>
+    <file name="webpro.js" crc="3803554875" ref="adobe-muse-online-store:clothes:shoes:tech-gadgets:equipments:appliances:index:contact-us:home2"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="adobe-muse-online-store:clothes:shoes:tech-gadgets:equipments:appliances:index:home2"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="adobe-muse-online-store:clothes:shoes:tech-gadgets:equipments:appliances:index:home2"/>
+    <file name="touchswipe.js" crc="4038331989" ref="adobe-muse-online-store:clothes:shoes:tech-gadgets:equipments:appliances:index:home2"/>
+    <file name="html5shiv.js" crc="4241844378" ref="adobe-muse-online-store:clothes:shoes:tech-gadgets:equipments:appliances:index:contact-us:home2"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="clothes:index:shoes"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="form_check.php" crc="277267350" ref="contact-us"/>
+    <file name="form_throttle.php" crc="3908387251" ref="contact-us"/>
+    <file name="form_process.php" crc="24249335" ref="contact-us"/>
+    <file name="form-u1899.php" crc="3794327205" ref="contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="234208791" ref="adobe-muse-online-store:shoes"/>
+    <file name="twitter.png" crc="4102706121" ref="adobe-muse-online-store:clothes:shoes"/>
+    <file name="pinterest.png" crc="4214682508" ref="adobe-muse-online-store:clothes:shoes"/>
+    <file name="facebook.png" crc="317936629" ref="adobe-muse-online-store:clothes:shoes"/>
+    <file name="placeholder-crop-u882.jpg" crc="3899481317" ref="adobe-muse-online-store"/>
+    <file name="blank.gif" crc="4208392903" ref="adobe-muse-online-store:clothes:shoes:tech-gadgets:equipments:appliances:index:contact-us:home2"/>
+    <file name="loading.gif" crc="3815509949" ref="adobe-muse-online-store:clothes:shoes:tech-gadgets:equipments:appliances:home2"/>
+    <file name="placeholdersmall89x89.jpg" crc="471833731" seo="true" ref="adobe-muse-online-store"/>
+    <file name="placeholdersmall.jpg" crc="231275788" seo="true" ref="adobe-muse-online-store:home2"/>
+    <file name="heart.png" crc="117585526" seo="true" ref="adobe-muse-online-store"/>
+    <file name="swu.jpg" crc="66854908" ref="clothes:shoes"/>
+    <file name="u1562-4.png" crc="3890985658" ref="clothes:shoes:tech-gadgets:equipments:appliances:index:contact-us:home2"/>
+    <file name="u1560-4.png" crc="3808745361" ref="clothes:shoes:tech-gadgets:equipments:appliances:index:contact-us:home2"/>
+    <file name="u1561-4.png" crc="403102707" ref="clothes:shoes:tech-gadgets:equipments:appliances:index:contact-us:home2"/>
+    <file name="u1581.png" crc="359914228" ref="clothes:shoes:tech-gadgets:equipments:appliances:index:contact-us:home2"/>
+    <file name="u1581-r.png" crc="421145246" ref="clothes:shoes:tech-gadgets:equipments:appliances:index:contact-us:home2"/>
+    <file name="u1566.png" crc="432060982" ref="clothes:shoes:tech-gadgets:equipments:appliances:index:contact-us:home2"/>
+    <file name="u1566-r.png" crc="499922215" ref="clothes:shoes:tech-gadgets:equipments:appliances:index:contact-us:home2"/>
+    <file name="u1587.png" crc="35792698" ref="clothes:shoes:tech-gadgets:equipments:appliances:index:contact-us:home2"/>
+    <file name="u1587-r.png" crc="4255310153" ref="clothes:shoes:tech-gadgets:equipments:appliances:index:contact-us:home2"/>
+    <file name="u1596.png" crc="66832947" ref="clothes:shoes:tech-gadgets:equipments:appliances:index:contact-us:home2"/>
+    <file name="u1596-r.png" crc="488363387" ref="clothes:shoes:tech-gadgets:equipments:appliances:index:contact-us:home2"/>
+    <file name="u1602.png" crc="148565588" ref="clothes:shoes:tech-gadgets:equipments:appliances:index:contact-us:home2"/>
+    <file name="u1602-r.png" crc="240013414" ref="clothes:shoes:tech-gadgets:equipments:appliances:index:contact-us:home2"/>
+    <file name="4.jpg" crc="4259854141" seo="true" ref="clothes"/>
+    <file name="clothesshopping.jpg" crc="4022113594" seo="true" ref="clothes"/>
+    <file name="maxresdefault670x377.jpg" crc="4174597890" seo="true" ref="clothes"/>
+    <file name="u1610-4.png" crc="4271599355" ref="clothes"/>
+    <file name="u1611-4.png" crc="4058450638" ref="clothes"/>
+    <file name="u1663-4.png" crc="31010667" ref="clothes"/>
+    <file name="angelo-litrico-logo-crop.jpg" crc="4094132224" seo="true" ref="clothes"/>
+    <file name="u1483-4.png" crc="4182399245" ref="clothes"/>
+    <file name="u1480-4.png" crc="83253045" ref="clothes"/>
+    <file name="u1481.png" crc="347589915" ref="clothes"/>
+    <file name="u1481-r.png" crc="213088629" ref="clothes"/>
+    <file name="gucci_logo_studio-t2220x143.jpg" crc="3960120333" seo="true" ref="clothes"/>
+    <file name="u1493-4.png" crc="155011939" ref="clothes"/>
+    <file name="u1494-4.png" crc="4227514226" ref="clothes"/>
+    <file name="u1492.png" crc="347589915" ref="clothes"/>
+    <file name="u1492-r.png" crc="213088629" ref="clothes"/>
+    <file name="download (1).jpg" crc="33499794" seo="true" ref="clothes"/>
+    <file name="u1506-4.png" crc="203913745" ref="clothes"/>
+    <file name="u1509-4.png" crc="110080619" ref="clothes"/>
+    <file name="u1510.png" crc="347589915" ref="clothes"/>
+    <file name="u1510-r.png" crc="213088629" ref="clothes"/>
+    <file name="download (2).jpg" crc="4206923274" seo="true" ref="clothes"/>
+    <file name="u1532-4.png" crc="3926214822" ref="clothes"/>
+    <file name="u1531-4.png" crc="4213373878" ref="clothes"/>
+    <file name="u1530.png" crc="347589915" ref="clothes"/>
+    <file name="u1530-r.png" crc="213088629" ref="clothes"/>
+    <file name="download (3).jpg" crc="467326377" seo="true" ref="clothes"/>
+    <file name="u1525-4.png" crc="3851840578" ref="clothes"/>
+    <file name="u1524-4.png" crc="3899322363" ref="clothes"/>
+    <file name="u1523.png" crc="347589915" ref="clothes"/>
+    <file name="u1523-r.png" crc="213088629" ref="clothes"/>
+    <file name="download (4).jpg" crc="4068659646" seo="true" ref="clothes"/>
+    <file name="u1516-4.png" crc="3935612261" ref="clothes"/>
+    <file name="u1515-4.png" crc="4004453523" ref="clothes"/>
+    <file name="u1514.png" crc="347589915" ref="clothes"/>
+    <file name="u1514-r.png" crc="213088629" ref="clothes"/>
+    <file name="download (6).jpg" crc="3974256640" seo="true" ref="clothes"/>
+    <file name="u1504-4.png" crc="4082148728" ref="clothes"/>
+    <file name="u1502-4.png" crc="4149759818" ref="clothes"/>
+    <file name="u1499.png" crc="347589915" ref="clothes"/>
+    <file name="u1499-r.png" crc="213088629" ref="clothes"/>
+    <file name="download (20).jpg" crc="3892983967" seo="true" ref="clothes"/>
+    <file name="u1485-4.png" crc="3807175026" ref="clothes"/>
+    <file name="u1486-4.png" crc="3953803560" ref="clothes"/>
+    <file name="u1490.png" crc="347589915" ref="clothes"/>
+    <file name="u1490-r.png" crc="213088629" ref="clothes"/>
+    <file name="versace-logo.jpg" crc="374181488" seo="true" ref="clothes"/>
+    <file name="u4199-4.png" crc="3770854497" ref="clothes"/>
+    <file name="u4202-4.png" crc="101850818" ref="clothes"/>
+    <file name="u4201.png" crc="347589915" ref="clothes"/>
+    <file name="u4201-r.png" crc="213088629" ref="clothes"/>
+    <file name="download (17).jpg" crc="4068475330" seo="true" ref="clothes"/>
+    <file name="u4194-4.png" crc="3780784869" ref="clothes"/>
+    <file name="u4191-4.png" crc="4128745816" ref="clothes"/>
+    <file name="u4190.png" crc="347589915" ref="clothes"/>
+    <file name="u4190-r.png" crc="213088629" ref="clothes"/>
+    <file name="download (21).jpg" crc="416235575" seo="true" ref="clothes"/>
+    <file name="u4185-4.png" crc="450191743" ref="clothes"/>
+    <file name="u4184-4.png" crc="4213373878" ref="clothes"/>
+    <file name="u4183.png" crc="347589915" ref="clothes"/>
+    <file name="u4183-r.png" crc="213088629" ref="clothes"/>
+    <file name="download (22).jpg" crc="3790030170" seo="true" ref="clothes:equipments"/>
+    <file name="u4176-4.png" crc="4141868300" ref="clothes"/>
+    <file name="u4177-4.png" crc="3845315502" ref="clothes"/>
+    <file name="u4179.png" crc="347589915" ref="clothes"/>
+    <file name="u4179-r.png" crc="213088629" ref="clothes"/>
+    <file name="u2045-4.png" crc="4271599355" ref="shoes"/>
+    <file name="u2046-4.png" crc="4058450638" ref="shoes"/>
+    <file name="u4223-4.png" crc="31010667" ref="shoes"/>
+    <file name="fbc84cedf77d8c2022a72c4b3a35a844_vans-shoes-logo-clipart-converse-logo-clipart_1561-1600.jpg" crc="4128207290" seo="true" ref="shoes"/>
+    <file name="u1991-4.png" crc="3905145392" ref="shoes"/>
+    <file name="u1989-4.png" crc="150786661" ref="shoes"/>
+    <file name="u1990.png" crc="347589915" ref="shoes"/>
+    <file name="u1990-r.png" crc="213088629" ref="shoes"/>
+    <file name="download (8).jpg" crc="326136557" seo="true" ref="shoes"/>
+    <file name="u2007-4.png" crc="12179580" ref="shoes"/>
+    <file name="u2006-4.png" crc="71832058" ref="shoes"/>
+    <file name="u2002.png" crc="347589915" ref="shoes"/>
+    <file name="u2002-r.png" crc="213088629" ref="shoes"/>
+    <file name="download (10).jpg" crc="4187362561" seo="true" ref="shoes"/>
+    <file name="u2016-4.png" crc="3955276054" ref="shoes"/>
+    <file name="u2020-4.png" crc="390510975" ref="shoes"/>
+    <file name="u2021.png" crc="347589915" ref="shoes"/>
+    <file name="u2021-r.png" crc="213088629" ref="shoes"/>
+    <file name="download (15).jpg" crc="3781950561" seo="true" ref="shoes"/>
+    <file name="u2042-4.png" crc="532446932" ref="shoes"/>
+    <file name="u2041-4.png" crc="173117422" ref="shoes"/>
+    <file name="u2038.png" crc="347589915" ref="shoes"/>
+    <file name="u2038-r.png" crc="213088629" ref="shoes"/>
+    <file name="download (16).jpg" crc="3769390576" seo="true" ref="shoes"/>
+    <file name="u2031-4.png" crc="3885226585" ref="shoes"/>
+    <file name="u2035-4.png" crc="3994699138" ref="shoes"/>
+    <file name="u2030.png" crc="347589915" ref="shoes"/>
+    <file name="u2030-r.png" crc="213088629" ref="shoes"/>
+    <file name="images (1).jpg" crc="4253692273" seo="true" ref="shoes:home2"/>
+    <file name="u2023-4.png" crc="236370261" ref="shoes"/>
+    <file name="u2024-4.png" crc="173117422" ref="shoes"/>
+    <file name="u2028.png" crc="347589915" ref="shoes"/>
+    <file name="u2028-r.png" crc="213088629" ref="shoes"/>
+    <file name="kickers-logo.jpg" crc="4110078536" seo="true" ref="shoes"/>
+    <file name="u2013-4.png" crc="263664783" ref="shoes"/>
+    <file name="u2012-4.png" crc="390510975" ref="shoes"/>
+    <file name="u2011.png" crc="347589915" ref="shoes"/>
+    <file name="u2011-r.png" crc="213088629" ref="shoes"/>
+    <file name="photo-resize_out-03.jpg" crc="3907787498" seo="true" ref="shoes"/>
+    <file name="u2000-4.png" crc="3903504831" ref="shoes"/>
+    <file name="u1995-4.png" crc="4260650195" ref="shoes"/>
+    <file name="u1997.png" crc="347589915" ref="shoes"/>
+    <file name="u1997-r.png" crc="213088629" ref="shoes"/>
+    <file name="all-brands-of-laptop-supported3670x221.jpg" crc="3967928702" seo="true" ref="tech-gadgets"/>
+    <file name="u2184-4.png" crc="4271599355" ref="tech-gadgets"/>
+    <file name="u2185-4.png" crc="4058450638" ref="tech-gadgets"/>
+    <file name="u4224-4.png" crc="31010667" ref="tech-gadgets"/>
+    <file name="download (8)2.jpg" crc="400531803" seo="true" ref="tech-gadgets:home2"/>
+    <file name="u2130-4.png" crc="404781858" ref="tech-gadgets"/>
+    <file name="u2127-4.png" crc="4261295838" ref="tech-gadgets"/>
+    <file name="u2128.png" crc="347589915" ref="tech-gadgets"/>
+    <file name="u2128-r.png" crc="213088629" ref="tech-gadgets"/>
+    <file name="download (9).jpg" crc="3863679589" seo="true" ref="tech-gadgets"/>
+    <file name="u2142-4.png" crc="438370916" ref="tech-gadgets"/>
+    <file name="u2141-4.png" crc="4172308720" ref="tech-gadgets"/>
+    <file name="u2146.png" crc="347589915" ref="tech-gadgets"/>
+    <file name="u2146-r.png" crc="213088629" ref="tech-gadgets"/>
+    <file name="download (13).jpg" crc="4225592660" seo="true" ref="tech-gadgets"/>
+    <file name="u2156-4.png" crc="80396909" ref="tech-gadgets"/>
+    <file name="u2157-4.png" crc="3973163854" ref="tech-gadgets"/>
+    <file name="u2158.png" crc="347589915" ref="tech-gadgets"/>
+    <file name="u2158-r.png" crc="213088629" ref="tech-gadgets"/>
+    <file name="lg-logo.jpg" crc="4187570718" seo="true" ref="tech-gadgets"/>
+    <file name="u2178-4.png" crc="477357515" ref="tech-gadgets"/>
+    <file name="u2181-4.png" crc="4004453523" ref="tech-gadgets"/>
+    <file name="u2177.png" crc="347589915" ref="tech-gadgets"/>
+    <file name="u2177-r.png" crc="213088629" ref="tech-gadgets"/>
+    <file name="images (6).jpg" crc="4054781668" seo="true" ref="tech-gadgets:appliances"/>
+    <file name="u2170-4.png" crc="435776767" ref="tech-gadgets"/>
+    <file name="u2171-4.png" crc="459768593" ref="tech-gadgets"/>
+    <file name="u2174.png" crc="347589915" ref="tech-gadgets"/>
+    <file name="u2174-r.png" crc="213088629" ref="tech-gadgets"/>
+    <file name="samsung_logo.jpg" crc="3981847119" seo="true" ref="tech-gadgets:appliances"/>
+    <file name="u2163-4.png" crc="3762613279" ref="tech-gadgets"/>
+    <file name="u2167-4.png" crc="4213373878" ref="tech-gadgets"/>
+    <file name="u2166.png" crc="347589915" ref="tech-gadgets"/>
+    <file name="u2166-r.png" crc="213088629" ref="tech-gadgets"/>
+    <file name="images (8).jpg" crc="185021221" seo="true" ref="tech-gadgets"/>
+    <file name="u2148-4.png" crc="493771114" ref="tech-gadgets"/>
+    <file name="u2149-4.png" crc="3853139121" ref="tech-gadgets"/>
+    <file name="u2151.png" crc="347589915" ref="tech-gadgets"/>
+    <file name="u2151-r.png" crc="213088629" ref="tech-gadgets"/>
+    <file name="mobile phones220x143.jpg" crc="4082327411" seo="true" ref="tech-gadgets"/>
+    <file name="u2135-4.png" crc="4017939270" ref="tech-gadgets"/>
+    <file name="u2136-4.png" crc="4261295838" ref="tech-gadgets"/>
+    <file name="u2134.png" crc="347589915" ref="tech-gadgets"/>
+    <file name="u2134-r.png" crc="213088629" ref="tech-gadgets"/>
+    <file name="brands-crop-u2340.jpg" crc="508831516" ref="equipments"/>
+    <file name="u2321-4.png" crc="4271599355" ref="equipments"/>
+    <file name="u2322-4.png" crc="4058450638" ref="equipments"/>
+    <file name="u4235-4.png" crc="31010667" ref="equipments"/>
+    <file name="u2267-4.png" crc="451730430" ref="equipments"/>
+    <file name="u2264-4.png" crc="3853139121" ref="equipments"/>
+    <file name="u2265.png" crc="347589915" ref="equipments"/>
+    <file name="u2265-r.png" crc="213088629" ref="equipments"/>
+    <file name="u2279-4.png" crc="185249694" ref="equipments"/>
+    <file name="u2278-4.png" crc="3853139121" ref="equipments"/>
+    <file name="u2283.png" crc="347589915" ref="equipments"/>
+    <file name="u2283-r.png" crc="213088629" ref="equipments"/>
+    <file name="u2293-4.png" crc="216515130" ref="equipments"/>
+    <file name="u2294-4.png" crc="3853139121" ref="equipments"/>
+    <file name="u2295.png" crc="347589915" ref="equipments"/>
+    <file name="u2295-r.png" crc="213088629" ref="equipments"/>
+    <file name="u2315-4.png" crc="4062047673" ref="equipments"/>
+    <file name="u2318-4.png" crc="3853139121" ref="equipments"/>
+    <file name="u2314.png" crc="347589915" ref="equipments"/>
+    <file name="u2314-r.png" crc="213088629" ref="equipments"/>
+    <file name="u2307-4.png" crc="3892190875" ref="equipments"/>
+    <file name="u2308-4.png" crc="3853139121" ref="equipments"/>
+    <file name="u2311.png" crc="347589915" ref="equipments"/>
+    <file name="u2311-r.png" crc="213088629" ref="equipments"/>
+    <file name="u2300-4.png" crc="3991508413" ref="equipments"/>
+    <file name="u2304-4.png" crc="3853139121" ref="equipments"/>
+    <file name="u2303.png" crc="347589915" ref="equipments"/>
+    <file name="u2303-r.png" crc="213088629" ref="equipments"/>
+    <file name="u2285-4.png" crc="4155711644" ref="equipments"/>
+    <file name="u2286-4.png" crc="3853139121" ref="equipments"/>
+    <file name="u2288.png" crc="347589915" ref="equipments"/>
+    <file name="u2288-r.png" crc="213088629" ref="equipments"/>
+    <file name="u2272-4.png" crc="210127344" ref="equipments"/>
+    <file name="u2273-4.png" crc="3853139121" ref="equipments"/>
+    <file name="u2271.png" crc="347589915" ref="equipments"/>
+    <file name="u2271-r.png" crc="213088629" ref="equipments"/>
+    <file name="u2458-4.png" crc="4271599355" ref="appliances"/>
+    <file name="u2459-4.png" crc="4058450638" ref="appliances"/>
+    <file name="u4236-4.png" crc="31010667" ref="appliances"/>
+    <file name="u2404-4.png" crc="388226646" ref="appliances"/>
+    <file name="u2401-4.png" crc="3894729178" ref="appliances"/>
+    <file name="u2402.png" crc="347589915" ref="appliances"/>
+    <file name="u2402-r.png" crc="213088629" ref="appliances"/>
+    <file name="download (11).jpg" crc="4217848551" seo="true" ref="appliances"/>
+    <file name="u2416-4.png" crc="62985611" ref="appliances"/>
+    <file name="u2415-4.png" crc="3772656694" ref="appliances"/>
+    <file name="u2420.png" crc="347589915" ref="appliances"/>
+    <file name="u2420-r.png" crc="213088629" ref="appliances"/>
+    <file name="u2430-4.png" crc="182331978" ref="appliances"/>
+    <file name="u2431-4.png" crc="78358713" ref="appliances"/>
+    <file name="u2432.png" crc="347589915" ref="appliances"/>
+    <file name="u2432-r.png" crc="213088629" ref="appliances"/>
+    <file name="u2452-4.png" crc="152607759" ref="appliances"/>
+    <file name="u2455-4.png" crc="3918192880" ref="appliances"/>
+    <file name="u2451.png" crc="347589915" ref="appliances"/>
+    <file name="u2451-r.png" crc="213088629" ref="appliances"/>
+    <file name="u2444-4.png" crc="4258178358" ref="appliances"/>
+    <file name="u2445-4.png" crc="4242207252" ref="appliances"/>
+    <file name="u2448.png" crc="347589915" ref="appliances"/>
+    <file name="u2448-r.png" crc="213088629" ref="appliances"/>
+    <file name="u2437-4.png" crc="151880306" ref="appliances"/>
+    <file name="u2441-4.png" crc="4172308720" ref="appliances"/>
+    <file name="u2440.png" crc="347589915" ref="appliances"/>
+    <file name="u2440-r.png" crc="213088629" ref="appliances"/>
+    <file name="u2422-4.png" crc="3890698410" ref="appliances"/>
+    <file name="u2423-4.png" crc="3853139121" ref="appliances"/>
+    <file name="u2425.png" crc="347589915" ref="appliances"/>
+    <file name="u2425-r.png" crc="213088629" ref="appliances"/>
+    <file name="u2409-4.png" crc="4116621085" ref="appliances"/>
+    <file name="u2410-4.png" crc="385786194" ref="appliances"/>
+    <file name="u2408.png" crc="347589915" ref="appliances"/>
+    <file name="u2408-r.png" crc="213088629" ref="appliances"/>
+    <file name="maxresdefault.jpg" crc="118637926" ref="index"/>
+    <file name="brands.jpg" crc="3951656987" ref="index"/>
+    <file name="lovely-general-electric-kitchen-appliances-hd-pictures-for-your-home-decoration.jpg" crc="4198209287" ref="index"/>
+    <file name="mobile phones.jpg" crc="16387099" ref="index"/>
+    <file name="111.png" crc="4237048903" ref="index"/>
+    <file name="u1971-4.png" crc="3991485674" ref="index"/>
+    <file name="u4283-4.png" crc="287852954" ref="index"/>
+    <file name="u1967-4.png" crc="4093630721" ref="index"/>
+    <file name="u1974-4.png" crc="409944023" ref="index"/>
+    <file name="u4345-4.png" crc="3804455958" ref="index"/>
+    <file name="name.jpg" crc="68464640" ref="contact-us"/>
+    <file name="nail.jpg" crc="4181910775" ref="contact-us"/>
+    <file name="u1918-17.png" crc="3856059871" ref="contact-us"/>
+    <file name="u1918-17-r.png" crc="4091809593" ref="contact-us"/>
+    <file name="u1918-17-m.png" crc="4091809593" ref="contact-us"/>
+    <file name="u1918-17-fs.png" crc="4282806617" ref="contact-us"/>
+    <file name="web.jpg" crc="3801575601" ref="contact-us"/>
+    <file name="phone.jpg" crc="276128751" ref="contact-us"/>
+    <file name="u2565-4.png" crc="11925809" ref="home2"/>
+    <file name="download (6)-crop-u2871.jpg" crc="3837075708" ref="home2"/>
+    <file name="download (9)-crop-u3004.jpg" crc="174534721" ref="home2"/>
+    <file name="download (11)2.jpg" crc="3796163805" seo="true" ref="home2"/>
+    <file name="download (12).jpg" crc="239583254" seo="true" ref="home2"/>
+    <file name="download (13)2.jpg" crc="4039423252" seo="true" ref="home2"/>
+    <file name="download (14).jpg" crc="3966779075" seo="true" ref="home2"/>
+    <file name="download (15)2.jpg" crc="4216201143" seo="true" ref="home2"/>
+    <file name="images (9).jpg" crc="430424009" seo="true" ref="home2"/>
+    <file name="images (10).jpg" crc="3832773013" seo="true" ref="home2"/>
+    <file name="images (11).jpg" crc="305335130" seo="true" ref="home2"/>
+    <file name="images (12).jpg" crc="22926870" seo="true" ref="home2"/>
+    <file name="images (13).jpg" crc="4149257154" seo="true" ref="home2"/>
+    <file name="images (14).jpg" crc="4134918267" seo="true" ref="home2"/>
+    <file name="images (15).jpg" crc="313319005" seo="true" ref="home2:equipments"/>
+    <file name="images (16).jpg" crc="321088269" seo="true" ref="home2"/>
+    <file name="u2601-4.png" crc="322604993" ref="home2"/>
+    <file name="download (9)-crop-u2906.jpg" crc="174534721" ref="home2"/>
+    <file name="download (10)2.jpg" crc="4154697643" seo="true" ref="home2"/>
+    <file name="hp-15-ay011nr-full-hd-crop-u3441.jpg" crc="3964500283" ref="home2"/>
+    <file name="images (5)-crop-u3450.jpg" crc="4117534805" ref="home2"/>
+    <file name="images (6)-crop-u3459.jpg" crc="4145907108" ref="home2"/>
+    <file name="images (7).jpg" crc="4252064871" seo="true" ref="home2"/>
+    <file name="images (8)-crop-u3477.jpg" crc="248201421" ref="home2"/>
+    <file name="u2553-4.png" crc="4040661194" ref="home2"/>
+    <file name="u2579-4.png" crc="4134964717" ref="home2"/>
+    <file name="4-crop-u2699.jpg" crc="116607828" ref="home2"/>
+    <file name="download (16)2.jpg" crc="4061877497" seo="true" ref="home2"/>
+    <file name="download (17)2.jpg" crc="25843001" seo="true" ref="home2"/>
+    <file name="download (18).jpg" crc="3833179269" seo="true" ref="home2"/>
+    <file name="download (19).jpg" crc="437130993" seo="true" ref="home2:appliances"/>
+    <file name="images (18).jpg" crc="403941811" seo="true" ref="home2"/>
+    <file name="images (19)-crop-u3309.jpg" crc="4036603767" ref="home2"/>
+    <file name="images (20).jpg" crc="427573220" seo="true" ref="home2"/>
+    <file name="images (21).jpg" crc="3840594998" seo="true" ref="home2"/>
+    <file name="images (22).jpg" crc="269347559" seo="true" ref="home2"/>
+    <file name="images (23).jpg" crc="316052411" seo="true" ref="home2"/>
+    <file name="images (24).jpg" crc="4017009382" seo="true" ref="home2"/>
+    <file name="maxresdefault-crop-u3363.jpg" crc="484185593" ref="home2"/>
+    <file name="download (6)-crop-u2919.jpg" crc="3837075708" ref="home2"/>
+    <file name="111-crop-u3156.png" crc="3908958971" ref="home2"/>
+    <file name="download (5).jpg" crc="476689296" seo="true" ref="home2"/>
+    <file name="download (7).jpg" crc="122931851" seo="true" ref="home2"/>
+    <file name="images (4)-crop-u3183.jpg" crc="65124409" ref="home2"/>
+    <file name="lovely-general-electric-kitchen-appliances-hd-pictures-for-your-home-decoration-crop-u3192.jpg" crc="4090078814" ref="home2"/>
+    <file name="u2586-4.png" crc="120527652" ref="home2"/>
+    <file name="u2571-4.png" crc="3976378856" ref="home2"/>
+    <file name="u2558-4.png" crc="155496855" ref="home2"/>
+    <file name="u2593-4.png" crc="4185614152" ref="home2"/>
+    <file name="download (2)-crop-u3377.jpg" crc="162553459" ref="home2"/>
+    <file name="download (3)2.jpg" crc="387719363" seo="true" ref="home2"/>
+    <file name="download (4)-crop-u3532.jpg" crc="4004057950" ref="home2"/>
+    <file name="images (2).jpg" crc="391463290" seo="true" ref="home2"/>
+    <file name="images (3).jpg" crc="329167735" seo="true" ref="home2"/>
+    <file name="images.jpg" crc="313319005" seo="true" ref="home2:appliances"/>
+    <file name="download (1)2.jpg" crc="316663464" seo="true" ref="home2"/>
+    <file name="10 top shoe brands in india.jpg" crc="154111950" seo="true" ref="shoes"/>
+    <file name="c10000554.jpg" crc="275901687" seo="true" ref="equipments"/>
+    <file name="d1c8844eebed4b72fcc4a8b8853b38e3.jpg" crc="195851074" seo="true" ref="equipments"/>
+    <file name="demarini.jpg" crc="520348109" seo="true" ref="equipments"/>
+    <file name="download (23).jpg" crc="4013624861" seo="true" ref="equipments"/>
+    <file name="download (24).jpg" crc="38290504" seo="true" ref="equipments"/>
+    <file name="logovorn2x.png" crc="4248573578" seo="true" ref="equipments"/>
+    <file name="7754533.jpg" crc="304704518" seo="true" ref="appliances"/>
+    <file name="76b968ba27e33d9c77901e17325b96c6_sony-logo-vector-sony-logo-clipart_631-514.png" crc="4121015605" seo="true" ref="appliances"/>
+    <file name="images (26).jpg" crc="96101417" seo="true" ref="appliances"/>
+    <file name="hisense-logo-old.png" crc="38608734" seo="true" ref="appliances"/>
+    <file name="images (4).jpg" crc="323397201" seo="true" ref="appliances"/>
+    <file name="u4396-4.png" crc="210127344" ref="appliances"/>
+    <file name="u4395-4.png" crc="4018140584" ref="appliances"/>
+    <file name="u4399.png" crc="347589915" ref="appliances"/>
+    <file name="u4399-r.png" crc="213088629" ref="appliances"/>
+    <file name="kenwood1u.png" crc="185507968" seo="true" ref="appliances"/>
+    <file name="u4390-4.png" crc="515921029" ref="appliances"/>
+    <file name="u4392-4.png" crc="237818039" ref="appliances"/>
+    <file name="u4391.png" crc="347589915" ref="appliances"/>
+    <file name="u4391-r.png" crc="213088629" ref="appliances"/>
+    <file name="logo_indesit_eng.png" crc="185408118" seo="true" ref="appliances"/>
+    <file name="u4381-4.png" crc="4207684370" ref="appliances"/>
+    <file name="u4382-4.png" crc="72727810" ref="appliances"/>
+    <file name="u4385.png" crc="347589915" ref="appliances"/>
+    <file name="u4385-r.png" crc="213088629" ref="appliances"/>
+    <file name="westinghouse_logo_color_285_hr.gif" crc="4097556505" seo="true" ref="appliances"/>
+    <file name="u4374-4.png" crc="4069312838" ref="appliances"/>
+    <file name="u4373-4.png" crc="385786194" ref="appliances"/>
+    <file name="u4377.png" crc="347589915" ref="appliances"/>
+    <file name="u4377-r.png" crc="213088629" ref="appliances"/>
+  </folder>
+  <file name="adobe-muse-online-store.html" crc="62168866" seo="true" mt="1495374861676" redirect="true"/>
+  <file name="clothes.html" crc="4040319675" seo="true" mt="1495374981190" redirect="true"/>
+  <file name="shoes.html" crc="3834772466" seo="true" mt="1495402587142" redirect="true"/>
+  <file name="tech-gadgets.html" crc="390496609" seo="true" mt="1495377616873" redirect="true"/>
+  <file name="equipments.html" crc="23340046" seo="true" mt="1495403662723" redirect="true"/>
+  <file name="appliances.html" crc="126712357" seo="true" mt="1495402528525" redirect="true"/>
+  <file name="index.html" crc="340865964" seo="true" mt="1495404100699" redirect="true"/>
+  <file name="contact-us.html" crc="4274150633" seo="true" mt="1495374981190" redirect="true"/>
+  <file name="home2.html" crc="128609337" seo="true" mt="1495374981190" redirect="true"/>
+</manifest>

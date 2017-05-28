@@ -5,7 +5,7 @@
 	background-size: contain;
 }
 
-#u1562-4_img,#u1560-4_img,#u1561-4_img
+#u1562-4_img
 {
 	display: block;
 	vertical-align: top;
@@ -47,7 +47,7 @@
 	background-color: #000000;
 }
 
-#u1562-4,#u1560-4,#u1561-4,#u1556_align_to_page
+#u1562-4,#u1556_align_to_page
 {
 	position: relative;
 }
@@ -148,6 +148,24 @@
 #u1600:hover #u1602
 {
 	background: url("../images/u1602-r.png") no-repeat 0px 0px;
+}
+
+#u4627,#u4630
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u4633
+{
+	vertical-align: top;
+	position: relative;
+	background: url("../images/u4633.png") no-repeat 0px 0px;
+}
+
+#u4630:hover #u4633
+{
+	background: url("../images/u4633-r.png") no-repeat 0px 0px;
 }
 
 .MenuItem /* unifiedNavBar */

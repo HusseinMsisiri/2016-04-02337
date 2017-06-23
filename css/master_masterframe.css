@@ -11,6 +11,22 @@
 	vertical-align: top;
 }
 
+#u5024
+{
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	background: transparent url("../images/email%20black.png") no-repeat center center;
+	background-size: cover;
+}
+
+#u5024:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+
 #u1557
 {
 	border-style: none;
